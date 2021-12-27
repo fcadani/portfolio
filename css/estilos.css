@@ -1,0 +1,67 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    color: red;
+    font-size: 36px;
+}
+
+p{
+    color: #6a6a6a;
+    font-size: 16px;
+}
+
+#contacto{
+    background-image: url('../images/fondo-contacto.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    }
+
+.form-control{
+    border-radius: 15px;
+}
+nav .active{
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+nav .nav-link{
+    color: #282828;
+    border-radius: 15px;
+}
+
+.btn-rojo{
+
+}
+
+.btn-blanco{
+    background-color: white;
+    border-radius: 5px
+}
+.btn-blanco:hover{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 750px){
+    #contacto {
+        background-image: url(../images/fondo-proyectos.png);
+    }
+}
