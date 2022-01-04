@@ -35,6 +35,9 @@
                     <a class="nav-link py-1"  href="contacto.php">Contacto</a>
                   </li>
                 </ul>
+                <div class="d-inline">
+                    <a href="" class="btn btn-rojo">Descargar mi CV <i class="fas fa-download"></i></a>
+                </div>
               </div>
             </div>
       </nav>
