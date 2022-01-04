@@ -23,16 +23,16 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
               <ul class="navbar-nav me-auto mb-2 mb-md-0 mt-2">
                 <li class="nav-item">
-                  <a class="nav-link px-4 py-1" href="index.html">Inicio</a>
+                  <a class="nav-link px-4 py-1" href="index.php">Inicio</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link px-4 py-1" href="sobre-mi.html">Sobre mí</a>
+                  <a class="nav-link px-4 py-1" href="sobre-mi.php">Sobre mí</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active px-4 py-1" href="proyectos.html">Proyectos</a>
+                  <a class="nav-link active px-4 py-1" href="proyectos.php">Proyectos</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link px-4 py-1" href="contacto.html">Contacto</a>
+                  <a class="nav-link px-4 py-1" href="contacto.php">Contacto</a>
                 </li>
               </ul>
             </div>
@@ -55,7 +55,7 @@
       <div class="row pt-4">
         <div class="col-sm-4 col-12">
           <div class="m-1 border p-0 .bg-white">
-            <img src="../porfolio/images/abmclientes.png" alt="abmclientes"  class="img-fluid">
+            <img src="images/abmclientes.png" alt="abmclientes"  class="img-fluid">
             <div class="bg-danger py-2 ps-3 color-gradiente">
               <h3 class="mt-1">ABM CLIENTES</h3>
             </div>
@@ -74,7 +74,7 @@
         </div>
           <div class="col-sm-4 col-12">
             <div class="m-1 border p-0 .bg-white">
-              <img src="../porfolio/images/abmventas.png" alt="abmventas"  class="img-fluid">
+              <img src="images/abmventas.png" alt="abmventas"  class="img-fluid">
               <div class="bg-danger py-2 ps-3 color-gradiente">
                 <h3 class="mt-1">SISTEMA DE GESTIÓN DE VENTAS</h3>
               </div>
@@ -93,7 +93,7 @@
           </div>
             <div class="col-sm-4 col-12">            
               <div class="m-1 border p-0 .bg-white">
-                <img src="../porfolio/images/proyecto-integrador.png" alt="pintegrador"  class="img-fluid">
+                <img src="images/proyecto-integrador.png" alt="pintegrador"  class="img-fluid">
                 <div class="bg-danger py-2 ps-3 color-gradiente">
                   <h3 class="mt-1">PROYECTO INTEGRADOR</h3>
                 </div>

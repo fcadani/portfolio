@@ -23,16 +23,16 @@
               <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0 mt-2">
                   <li class="nav-item">
-                    <a class="nav-link active px-4 py-1" href="index.html">Inicio</a>
+                    <a class="nav-link active px-4 py-1" href="index.php">Inicio</a>
                   </li>
                   <li class="nav-item px-4">
-                    <a class="nav-link py-1" href="sobre-mi.html">Sobre mí</a>
+                    <a class="nav-link py-1" href="sobre-mi.php">Sobre mí</a>
                   </li>
                   <li class="nav-item px-4">
-                    <a class="nav-link py-1" href="proyectos.html">Proyectos</a>
+                    <a class="nav-link py-1" href="proyectos.php">Proyectos</a>
                   </li>
                   <li class="nav-item px-4">
-                    <a class="nav-link py-1"  href="contacto.html">Contacto</a>
+                    <a class="nav-link py-1"  href="contacto.php">Contacto</a>
                   </li>
                 </ul>
               </div>
@@ -43,13 +43,13 @@
     <main class="container">
       <div class="row">
         <div class="col-12  text-center pt-5 mb-5 div-cohete">
-          <a href="proyectos.html"><img src="../porfolio/images/cohete.svg" alt="cohete" class="cohete"></a>
+          <a href="proyectos.php"><img src="images/cohete.svg" alt="cohete" class="cohete"></a>
         </div>
         <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
           <p class="textindex">Bienvenid@ a mi sitio web.</p>
         </div>
         <div class="col-12 text-center">
-          <a href="sobre-mi.html" class="btn btn-blanco px-3 mt-2 shadow">Conoce mis proyectos</a>
+          <a href="sobre-mi.php" class="btn btn-blanco px-3 mt-2 shadow">Conoce mis proyectos</a>
         </div>
       </div>
 

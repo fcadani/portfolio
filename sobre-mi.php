@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/estilos.css">
-    <link rel="shortcut icon" href="images/favicon.ico">
     <title>Sobre mí</title>
   </head>
   <body id="sobre-mi">
@@ -23,16 +22,16 @@
               <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0 mt-2">
                   <li class="nav-item">
-                    <a class="nav-link px-4 py-1 " href="index.html">Inicio</a>
+                    <a class="nav-link px-4 py-1 " href="index.php">Inicio</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link active px-4 py-1" href="sobre-mi.html">Sobre mí</a>
+                    <a class="nav-link active px-4 py-1" href="sobre-mi.php">Sobre mí</a>
                   </li>
                   <li class="nav-item px-4">
-                    <a class="nav-link py-1" href="proyectos.html">Proyectos</a>
+                    <a class="nav-link py-1" href="proyectos.php">Proyectos</a>
                   </li>
                   <li class="nav-item px-4">
-                    <a class="nav-link py-1"  href="contacto.html">Contacto</a>
+                    <a class="nav-link py-1"  href="contacto.php">Contacto</a>
                   </li>
                 </ul>
               </div>
@@ -47,15 +46,15 @@
                 <h1 class="mb-4 mt-3">Sobre mí</h1>
                 <p  class="mb-5">Aficionado en programación, amante del cine, la fotografía y el asado.</p>
 
-                <a href="contacto.html" class="btn btn-rojo px-2 align-items-end ">Enviar mensaje</a>
+                <a href="contacto.php" class="btn btn-rojo px-2 align-items-end ">Enviar mensaje</a>
             </div>
           <div class="col-sm-7 col-12 pt-4 float-md-right">
-            <img src="../porfolio/images/imgperfil.jpg" alt="Angel Daniel Flores" class="img-fluid img-circle ">             
+            <img src="images/imgperfil.jpg" alt="Angel Daniel Flores" class="img-fluid img-circle ">             
           </div>
         </div>
-      
-        <section id="tecnologias" class="pb-5 px-0 color-gradiente">
-          <div class="container-fluid px-2">
+    </main>
+        <section id="tecnologias">
+          <div class="container pb-5 px-2">
               <div class="row">
                   <div class="col-12">
                       <h2 class="my-sm-5 text-white">Stack tecnológico</h2>
@@ -189,9 +188,8 @@
            
         </div>
     </section>
-    </main>
     <section id="formacion" class="container">
-        <div class="row pb-4">
+        <div class="row py-5">
             <div>
                 <h2><i class="fas fa-graduation-cap"></i>Formación acádémica </h2>
             </div>
@@ -241,7 +239,7 @@
     </section>
       
     <section id="cursos" class="container">
-        <div class="row py-5">
+        <div class="row py-5 mx-2">
             <h2><i class="fas fa-graduation-cap"></i>Cursos de desarrollo profesional</h2>
         </div>
         <div class="row shadow bg-white rounded py-1 mb-5">
@@ -273,44 +271,45 @@
     </section>
 
     <section id="otros">
-        <div class="container ">
-            <div class="row py-5 px-2" >
-                <div class="card col-sm-6 col-12 shadow">
-                        <div class="">
-                            <div class="row">
-                                <div class="vineta col-4 text-center pt-5">
-                                    <i class="fas fa-comment-alt"></i>
-                                </div>
-                                <div class="col-6 py-5"> 
-                                        <ul>
-                                            <li><h2>IDIOMAS</h2></li>
-                                            <li>Español - Nativo</li>
-                                            <li>Inglés - Basico</li>
-                                        </ul>
-                                </div>
-                            </div>
-                        </div>
-                </div>
+        <div class="container">
+            <div class="padd row py-5 ">
+                <div class="col-sm-6 col-12 py-3 ">
+                    <div class="row cuadro shadow">
+                            <div class="col-4 carta text-center py-5">
+                                <i class="fas fa-comment-alt"></i>
+                            </div> 
 
-                <div class="card col-sm-6 col-12 ml-auto shadow ">
-                    <div class="">
-                        <div class="row">
-                            <div class="vineta col-4 text-center pt-5">
-                                <i class="fas fa-star"></i></i>
+                            <div class= "col-8 pt-5">
+                                <ul>
+                                    <li><h2>IDIOMAS</h2></li>
+                                    <li>Español - Nativo</li>
+                                    <li>Inglés - Basico</li>
+                                </ul>
                             </div>
-                            <div class="text col-6 py-5"> 
+                    </div>
+                </div> 
+                <div class="col-sm-6 col-12 py-3">
+                    <div class="row cuadro shadow float-sm-end">
+                            <div class="col-4 carta text-center py-5">
+                                    <i class="fas fa-star"></i>
+                            </div> 
+    
+                            <div class= "col-8 pt-5">
                                     <ul>
                                         <li><h2>HOBBIES</h2></li>
                                         <li>Programacion</li>
                                         <li>Fotografia</li>
                                     </ul>
                             </div>
-                        </div>
+                        
                     </div>
                 </div>
-            </div>
+    
+            </div>           
         </div>
     </section>
+
+
 
 
 

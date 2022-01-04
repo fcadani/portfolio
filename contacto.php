@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/estilos.css">
-    <link rel="shortcut icon" href="images/favicon.ico">
     <title>Contacto</title>
   </head>
   <body id="contacto">
@@ -23,16 +22,16 @@
               <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0 mt-2">
                   <li class="nav-item">
-                    <a class="nav-link px-4 py-1" href="index.html">Inicio</a>
+                    <a class="nav-link px-4 py-1" href="index.php">Inicio</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link px-4 py-1" href="sobre-mi.html">Sobre mí</a>
+                    <a class="nav-link px-4 py-1" href="sobre-mi.php">Sobre mí</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link px-4 py-1" href="proyectos.html">Proyectos</a>
+                    <a class="nav-link px-4 py-1" href="proyectos.php">Proyectos</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link active px-4 py-1" href="contacto.html">Contacto</a>
+                    <a class="nav-link active px-4 py-1" href="contacto.php">Contacto</a>
                   </li>
                 </ul>
               </div>
