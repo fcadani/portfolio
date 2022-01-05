@@ -212,7 +212,7 @@ nav .navbar-toggler{
     background: -ms-linear-gradient(left, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
     background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b82514', endColorstr='#f02f17', GradientType=1 );
-}}
+}
 
 
 .color-gradiente{
@@ -273,7 +273,7 @@ nav .navbar-toggler{
 }
 
 #otros .fas{
-    font-size: 90px;
+    font-size: 80px;
     color: white;
 }
 #otros .vineta{

@@ -228,7 +228,7 @@
             <div class="col-12 col-sm-6"> 
                 <div class="row">
                     <div class="col-sm-3 col-12 py-3 my-auto d-none d-sm-block">
-                        <img src="images/ipcac.png" class="img-fluid" title="ipcac">
+                        <img src="images/escuela.png" class="img-fluid" title="ipcac">
                     </div>
                     <div class="col-sm-9 col-12 p-3 pt-4">
                         <h3>Bachiller en Informatica</h3>
