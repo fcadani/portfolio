@@ -57,12 +57,9 @@
       </div>
 
 
-  
-
-
     </main>
 
-    <footer class="container mb-5 fixed-bottom">
+    <footer class="container mb-5 ">
       <div class="row mt-5 pb-3 text-center">
           <div class="col-12 col-sm-3 text-center text-sm-start">
               <a href="https://github.com/fcadani/portfolio.git" target="_blank" title="Github"><i class="fab fa-github"></i></a>
